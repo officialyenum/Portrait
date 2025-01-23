@@ -3,15 +3,16 @@ Portrait : 画像
 
 CREATORS :
 
-Designers: 
+Game Programming: 
+	Chukwuyenum Opone
+Game Design:
 	Ruixin Wu, 
 	Weini Xiong, 
 	Zeyu Lu, 
-2D Artist: 
+2D Concept Art:
 	Choi Shoong Herng, 
 	Weini Xiong,
-Programmer : 
-	Chukwuyenum Opone
+
 
 Built in Unreal Engine 5 using Blueprints.
 
